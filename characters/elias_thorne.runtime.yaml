@@ -1,0 +1,35 @@
+runtime_character:
+  identity:
+    name: Elias Thorne
+
+  current_location: saint_bartholomew_church
+
+  conditions:
+    - Sleep deprived
+    - Fear Level 1 (Implicit Controlled Tension)
+
+  inventory_runtime:
+    food_remaining: low
+    revolver_rounds: 2
+    whiskey_remaining: partial
+    coffee_remaining: limited
+
+  active_relationships:
+    - npc: Jonah Mercer
+      status: Trusted survivor companion
+
+  active_knowledge:
+    - Bell escalation behavior
+    - Cognitive fixation may increase danger
+    - Observational journaling appears safe
+    - Questions safer than conclusions
+
+  psychological_state:
+    - Adapting to uncertainty-based survival procedures
+    - Operational trust forming with Mercer
+    - Maintaining cognitive restraint techniques
+
+  pending_objectives:
+    - Survive the night
+    - Scavenge river district cannery
+    - Learn safe operational procedures
