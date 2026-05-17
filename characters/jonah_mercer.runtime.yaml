@@ -1,0 +1,28 @@
+runtime_npc:
+  identity:
+    name: Jonah Mercer
+
+  current_location: saint_bartholomew_church
+
+  disposition:
+    toward_elias: Trusted survivor companion
+
+  active_conditions:
+    - Hypervigilant
+    - Sleep deprived
+    - Operationally cooperative
+
+  active_knowledge:
+    - Bell escalation procedures
+    - Lower church resonance timing
+    - Safe cognitive behavior patterns
+
+  current_resources:
+    shelter: saint_bartholomew_church
+    coffee: low
+    food: limited
+
+  pending_objectives:
+    - Survive next bell cycle
+    - Reach river district cannery
+    - Maintain operational stability inside church
